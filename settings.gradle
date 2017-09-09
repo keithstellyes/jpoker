@@ -1,0 +1,4 @@
+rootProject.name = 'jpoker'
+include 'logic'
+include 'cliclient'
+
